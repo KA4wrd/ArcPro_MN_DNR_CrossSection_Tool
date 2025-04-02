@@ -1,0 +1,12 @@
+
+DNR_Cross_Section_Tools_3_3_1
+DNR Cross Section Toolbox for ArcGIS Pro
+
+The Minnesota DNR Cross Section Toolbox for ArcGIS Pro provides stepwise toolsets for creating hydrogeologic cross sections, and is used by County Geologic Atlas and Groundwater Technical Analysis MNDNR staff. 
+Some of these tools may be useful to the wider public. However, some tools rely on data that is not available outside of the DNR and other state agencies.
+
+Toolsets included in MNDNR Tools:
+- 1 Create Raster Profiles
+- Verified Wells, tools 2-6c
+- Unverified Wells, tools 2-6c
+- 7 Create Vertical Lines at Intersections
